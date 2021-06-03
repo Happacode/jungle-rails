@@ -34,6 +34,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 ## Screenshots
 
-!["Screenshot of Products Page"](https://github.com/Happacode/)
-!["Screenshot of Cart Page"](https://github.com/Happacode/)
-!["Screenshot of Admin Dashboard"](https://github.com/Happacode/)
+!["Screenshot of Products Page"](https://github.com/Happacode/jungle-rails/blob/master/docs/Jungle-Products.png?raw=true)
+!["Screenshot of Cart Page"](https://github.com/Happacode/jungle-rails/blob/master/docs/Jungle-Cart.png?raw=true)
+!["Screenshot of Admin Dashboard"](https://github.com/Happacode/jungle-rails/blob/master/docs/Jungle-Admin.png?raw=true)
